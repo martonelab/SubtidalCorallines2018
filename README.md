@@ -9,10 +9,10 @@ These data were generated from subtidal SCUBA surveys collected in 2014 that is 
 
 Column headers for the file “Hind et al_Site Survey Data.csv”:
 
-Site = reef site with numbers corresponding to sites shown in Figure 1
-Quadrat = number for each 1x1m quadrat (n=18 in total per site)
-ALLurchinbiomass = total biomass for red and green urchins in each quadrat
-ALLstipesAdult = kelp stipe count for all adult kelps (Nereocystis luetkeana, Macrocystis pyrifera Pterygophora california and Laminaria spp.)
+Site = reef site with numbers corresponding to sites shown in Figure 1;
+Quadrat = number for each 1x1m quadrat (n=18 in total per site);
+ALLurchinbiomass = total biomass for red and green urchins in each quadrat;
+ALLstipesAdult = kelp stipe count for all adult kelps (Nereocystis luetkeana, Macrocystis pyrifera Pterygophora california and Laminaria spp.);
 
 (2) Hind et al_Coralline Quad Data.xlsx
 
